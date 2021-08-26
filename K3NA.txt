@@ -1,0 +1,7 @@
+version 2.3.6 
+!major
+{
+-link1
+-link2
+}
+#26.08.2021 
